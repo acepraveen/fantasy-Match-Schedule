@@ -2,7 +2,7 @@
 ![FantasyMatchScheduler](https://github.com/acepraveen/fantasy-Match-Schedule/assets/53901682/2dea34d6-6b85-480c-bc56-88ad29eb6d45)
 
 
-##Summary:
+## Summary:
 This app offers a comprehensive solution for organizing and managing fantasy cricket matches, empowering users with customization options and seamless scheduling functionalities.
 
 - The Fantasy Match Scheduler app enables users to create schedules by selecting two IPL teams and setting match details such as upcoming dates, total overs, overs per bowler, and power play overs.
